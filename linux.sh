@@ -33,12 +33,12 @@ print ("""
 |___/     
  Made By AHmed sbai ./.
  #Coded By \033[94mAhmedSbai\033[91m (\033[93mGithub.com\033[91m/\033[93msbaiahmed1\033[91m)        	
- Use roOt (sudo -s) 
+ \033[92mUse roOt (sudo -s) 
  (1)  \033[94mInstall Important Packages To yoUr Linux
  (2)  \033[91mInstall Python
- (3)  \033[91mInstall Perl
- (4)  \033[91mInstall Gcc C compiler
- (5)  \033[94mUpdate And Upgrade 
+ (3)  \033[95mInstall Perl
+ (4)  \033[96mInstall Gcc C compiler
+ (5)  \033[93mUpdate And Upgrade 
  (6)  \033[91mAbout Me & Exit
  """ )
  #########   AhMeD   #########
